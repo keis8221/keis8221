@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=keis8221&theme=onedark&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=keis8221&theme=onedark&column=8
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keis8221&theme=bear)
